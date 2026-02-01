@@ -1,0 +1,31 @@
+N
+Copy
+
+{
+  "appId": "com.integrasystems.kiosk",
+  "productName": "IntegraOS Kiosk",
+  "main": "electron-main-kiosk.js",
+  "directories": {
+    "output": "dist/kiosk"
+  },
+  "files": [
+    "electron-main-kiosk.js",
+    "preload.js",
+    "public/favicon.ico",
+    "package.json"
+  ],
+  "win": {
+    "target": "nsis",
+    "icon": "public/favicon.ico"
+  },
+  "nsis": {
+    "oneClick": false,
+    "allowToChangeInstallationDirectory": true,
+    "createDesktopShortcut": true,
+    "createStartMenuShortcut": true,
+    "installerIcon": "public/favicon.ico",
+    "uninstallerIcon": "public/favicon.ico",
+    "installerHeaderIcon": "public/favicon.ico",
+    "displayLanguageSelector": false
+  }
+}

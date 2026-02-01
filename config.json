@@ -1,0 +1,11 @@
+{
+  "device": {
+    "name": "Kiosk-1",
+    "location": "Shop Floor - Station 1"
+  },
+  "license": {
+    "key": "TRIAL-VERSION"
+  },
+  "kioskMode": true,
+  "notes": "This file is optional. Edit device name and location for each kiosk. All branding (logo, colors, company name) is configured through the IntegraOS UI."
+}

@@ -1,0 +1,31 @@
+{
+  "appId": "com.integrasystems.server",
+  "productName": "IntegraOS Server",
+  "main": "electron-main-server.js",
+  "directories": {
+    "output": "dist/server"
+  },
+  "files": [
+    ".next/**/*",
+    "public/**/*",
+    "node_modules/**/*",
+    "electron-main-server.js",
+    "preload.js",
+    "server.js",
+    "package.json"
+  ],
+  "win": {
+    "target": "nsis",
+    "icon": "public/favicon.ico"
+  },
+  "nsis": {
+    "oneClick": false,
+    "allowToChangeInstallationDirectory": true,
+    "createDesktopShortcut": true,
+    "createStartMenuShortcut": true,
+    "installerIcon": "public/favicon.ico",
+    "uninstallerIcon": "public/favicon.ico",
+    "installerHeaderIcon": "public/favicon.ico",
+    "displayLanguageSelector": false
+  }
+}

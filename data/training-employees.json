@@ -1,0 +1,72 @@
+[
+  {
+    "id": "emp_1762134064429",
+    "name": "Bailey Tatnell",
+    "department": "Engineering",
+    "position": "Account Engineer",
+    "hireDate": "2017-11-03",
+    "skills": [
+      "Software",
+      "Walkie Stacker",
+      "Turret Punch",
+      "Unloading Tasks in Profiling",
+      "P2 Panel Folding",
+      "Press Brakes",
+      "Clinching",
+      "Spotwelder",
+      "Welding (MIG + TIG)",
+      "Powder Coating",
+      "Assembly",
+      "Material Handling and Packaging",
+      "Design",
+      "Laser Welding"
+    ],
+    "createdAt": 1762134064429
+  },
+  {
+    "id": "emp_1762140830734",
+    "name": "Nick Restall",
+    "department": "Management",
+    "position": "Design Manager",
+    "hireDate": "2016-02-03",
+    "skills": [
+      "Forklift",
+      "Walkie Stacker",
+      "Laser",
+      "Unloading Tasks in Profiling",
+      "P2 Panel Folding",
+      "Press Brakes",
+      "Clinching",
+      "Spotwelder",
+      "Welding (MIG + TIG)",
+      "Powder Coating",
+      "Assembly",
+      "Material Handling and Packaging",
+      "6S",
+      "Design",
+      "Supervisor",
+      "Laser Welding"
+    ],
+    "createdAt": 1762140830734
+  },
+  {
+    "id": "emp_1762140898773",
+    "name": "Max Patterson",
+    "department": "Forming",
+    "position": "Forming Manager",
+    "hireDate": "2018-02-03",
+    "skills": [
+      "Forklift",
+      "Walkie Stacker",
+      "Unloading Tasks in Profiling",
+      "P2 Panel Folding",
+      "Press Brakes",
+      "Clinching",
+      "Spotwelder",
+      "Powder Coating",
+      "Assembly",
+      "Supervisor"
+    ],
+    "createdAt": 1762140898773
+  }
+]

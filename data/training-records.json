@@ -1,0 +1,23 @@
+[
+  {
+    "id": "record_1764630685372",
+    "employeeId": "emp_1764630676540",
+    "trainingId": "form_1763339823906",
+    "trainingType": "form",
+    "completedDate": "2025-12-01"
+  },
+  {
+    "id": "record_1764630781774",
+    "employeeId": "emp_1764630676540",
+    "trainingId": "form_1763339823906",
+    "trainingType": "form",
+    "completedDate": "2025-12-01"
+  },
+  {
+    "id": "record_1764633127770",
+    "employeeId": "emp_1762140830734",
+    "trainingId": "form_1763339823906",
+    "trainingType": "form",
+    "completedDate": "2025-12-01"
+  }
+]
